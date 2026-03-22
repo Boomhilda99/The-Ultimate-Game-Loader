@@ -1,0 +1,37 @@
+# ninja log v7
+2	55	7958501823736905	arc-populate-prefix/src/arc-populate-stamp/arc-populate-mkdir	98c248de87a522eb
+2	55	7958501823736905	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-mkdir	98c248de87a522eb
+56	1848	7958501841654006	arc-populate-prefix/src/arc-populate-stamp/arc-populate-download	60bc48855e3dfd76
+56	1848	7958501841654006	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-download	60bc48855e3dfd76
+1848	2014	7958501841724702	arc-populate-prefix/src/arc-populate-stamp/arc-populate-update	2ded7874d75085e6
+1848	2014	7958501841724702	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-update	2ded7874d75085e6
+2014	2067	7958501843852143	arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch	77e548e973072b3b
+2014	2067	7958501843852143	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch	77e548e973072b3b
+2068	2118	7958501844364256	arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure	9da0df2d57b514f8
+2068	2118	7958501844364256	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure	9da0df2d57b514f8
+2118	2172	7958501844897633	arc-populate-prefix/src/arc-populate-stamp/arc-populate-build	fd6f2d44a93160a4
+2118	2172	7958501844897633	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-build	fd6f2d44a93160a4
+2172	2225	7958501845430836	arc-populate-prefix/src/arc-populate-stamp/arc-populate-install	82c868b78bb7cfd2
+2172	2225	7958501845430836	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-install	82c868b78bb7cfd2
+2226	2277	7958501845957477	arc-populate-prefix/src/arc-populate-stamp/arc-populate-test	ad58867b3c35600
+2226	2277	7958501845957477	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-test	ad58867b3c35600
+2277	2348	7958501846657655	CMakeFiles/arc-populate-complete	915e4fe00350fdfe
+2277	2348	7958501846657655	arc-populate-prefix/src/arc-populate-stamp/arc-populate-done	915e4fe00350fdfe
+2277	2348	7958501846657655	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/CMakeFiles/arc-populate-complete	915e4fe00350fdfe
+2277	2348	7958501846657655	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-done	915e4fe00350fdfe
+3	167	7958550114419949	arc-populate-prefix/src/arc-populate-stamp/arc-populate-update	2ded7874d75085e6
+3	167	7958550114419949	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-update	2ded7874d75085e6
+167	224	7958550116569466	arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch	77e548e973072b3b
+167	224	7958550116569466	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch	77e548e973072b3b
+224	282	7958550117144027	arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure	9da0df2d57b514f8
+224	282	7958550117144027	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure	9da0df2d57b514f8
+282	339	7958550117713877	arc-populate-prefix/src/arc-populate-stamp/arc-populate-build	fd6f2d44a93160a4
+282	339	7958550117713877	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-build	fd6f2d44a93160a4
+339	393	7958550118255145	arc-populate-prefix/src/arc-populate-stamp/arc-populate-install	82c868b78bb7cfd2
+339	393	7958550118255145	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-install	82c868b78bb7cfd2
+393	447	7958550118789830	arc-populate-prefix/src/arc-populate-stamp/arc-populate-test	ad58867b3c35600
+393	447	7958550118789830	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-test	ad58867b3c35600
+447	524	7958550119569938	CMakeFiles/arc-populate-complete	915e4fe00350fdfe
+447	524	7958550119569938	arc-populate-prefix/src/arc-populate-stamp/arc-populate-done	915e4fe00350fdfe
+447	524	7958550119569938	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/CMakeFiles/arc-populate-complete	915e4fe00350fdfe
+447	524	7958550119569938	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-done	915e4fe00350fdfe

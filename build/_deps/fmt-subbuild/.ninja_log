@@ -1,0 +1,37 @@
+# ninja log v7
+1	63	7958501745563168	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	3d5e9faeb32a8996
+1	63	7958501745563168	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	3d5e9faeb32a8996
+63	2785	7958501772799605	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	938690067f23667c
+63	2785	7958501772799605	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	938690067f23667c
+2785	2947	7958501772850015	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	de3099321b9c8b3e
+2785	2947	7958501772850015	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	de3099321b9c8b3e
+2948	2999	7958501774931093	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2a7c92c42c7142bd
+2948	2999	7958501774931093	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2a7c92c42c7142bd
+2999	3049	7958501775435214	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	21fe5563414784a0
+2999	3049	7958501775435214	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	21fe5563414784a0
+3049	3100	7958501775941712	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	e969506a07ef2656
+3049	3100	7958501775941712	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	e969506a07ef2656
+3100	3151	7958501776454554	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	55e518041e560f34
+3100	3151	7958501776454554	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	55e518041e560f34
+3151	3203	7958501776977035	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	79c227cfc94efc0
+3151	3203	7958501776977035	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	79c227cfc94efc0
+3203	3277	7958501777707054	CMakeFiles/fmt-populate-complete	9c1ce835f87890c7
+3203	3277	7958501777707054	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	9c1ce835f87890c7
+3203	3277	7958501777707054	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	9c1ce835f87890c7
+3203	3277	7958501777707054	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	9c1ce835f87890c7
+3	162	7958550093038171	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	de3099321b9c8b3e
+3	162	7958550093038171	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	de3099321b9c8b3e
+162	219	7958550095137751	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2a7c92c42c7142bd
+162	219	7958550095137751	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	2a7c92c42c7142bd
+219	274	7958550095687561	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	21fe5563414784a0
+219	274	7958550095687561	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	21fe5563414784a0
+274	331	7958550096258777	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	e969506a07ef2656
+274	331	7958550096258777	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	e969506a07ef2656
+331	387	7958550096817255	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	55e518041e560f34
+331	387	7958550096817255	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	55e518041e560f34
+387	441	7958550097367594	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	79c227cfc94efc0
+387	441	7958550097367594	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	79c227cfc94efc0
+441	516	7958550098110844	CMakeFiles/fmt-populate-complete	9c1ce835f87890c7
+441	516	7958550098110844	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	9c1ce835f87890c7
+441	516	7958550098110844	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	9c1ce835f87890c7
+441	516	7958550098110844	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	9c1ce835f87890c7

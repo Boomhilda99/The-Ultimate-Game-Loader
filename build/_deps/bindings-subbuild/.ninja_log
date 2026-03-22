@@ -1,0 +1,37 @@
+# ninja log v7
+2	56	7958501578939096	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	e00b03c84e36e16
+2	56	7958501578939096	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	e00b03c84e36e16
+56	5940	7958501637782277	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	91b09a8ed3598537
+56	5940	7958501637782277	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	91b09a8ed3598537
+5941	7677	7958501637848027	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	509057753725c979
+5941	7677	7958501637848027	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	509057753725c979
+7677	7731	7958501655695937	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	db5b9247c9acdf3e
+7677	7731	7958501655695937	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	db5b9247c9acdf3e
+7731	7783	7958501656218930	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	598c20e652597058
+7731	7783	7958501656218930	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	598c20e652597058
+7783	7835	7958501656730970	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	8f6795aa482715c0
+7783	7835	7958501656730970	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	8f6795aa482715c0
+7835	7887	7958501657255794	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	cab9ba94f2accb2f
+7835	7887	7958501657255794	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	cab9ba94f2accb2f
+7887	7940	7958501657789122	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	7b6b36d168fd6429
+7887	7940	7958501657789122	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	7b6b36d168fd6429
+7940	8011	7958501658501416	CMakeFiles/bindings-populate-complete	213041cb09d78b1c
+7940	8011	7958501658501416	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	213041cb09d78b1c
+7940	8011	7958501658501416	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete	213041cb09d78b1c
+7940	8011	7958501658501416	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	213041cb09d78b1c
+2	1831	7958550033254342	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	509057753725c979
+2	1831	7958550033254342	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	509057753725c979
+1831	1883	7958550051998274	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	db5b9247c9acdf3e
+1831	1883	7958550051998274	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	db5b9247c9acdf3e
+1883	1934	7958550052514026	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	598c20e652597058
+1883	1934	7958550052514026	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	598c20e652597058
+1934	1987	7958550053038988	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	8f6795aa482715c0
+1934	1987	7958550053038988	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	8f6795aa482715c0
+1987	2039	7958550053567058	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	cab9ba94f2accb2f
+1987	2039	7958550053567058	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	cab9ba94f2accb2f
+2039	2090	7958550054078726	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	7b6b36d168fd6429
+2039	2090	7958550054078726	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	7b6b36d168fd6429
+2090	2166	7958550054834195	CMakeFiles/bindings-populate-complete	213041cb09d78b1c
+2090	2166	7958550054834195	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	213041cb09d78b1c
+2090	2166	7958550054834195	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete	213041cb09d78b1c
+2090	2166	7958550054834195	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	213041cb09d78b1c

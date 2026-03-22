@@ -1,0 +1,37 @@
+# ninja log v7
+2	55	7958501798402136	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-mkdir	24e1c1a64994c16f
+2	55	7958501798402136	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-mkdir	24e1c1a64994c16f
+55	1622	7958501814080603	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-download	254baa6a6057e50a
+55	1622	7958501814080603	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-download	254baa6a6057e50a
+1622	1794	7958501814141096	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-update	6000ad2716aaf568
+1622	1794	7958501814141096	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-update	6000ad2716aaf568
+1794	1847	7958501816322267	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-patch	5b704218494d115b
+1794	1847	7958501816322267	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-patch	5b704218494d115b
+1847	1898	7958501816847270	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-configure	305027f41b2b7f84
+1847	1898	7958501816847270	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-configure	305027f41b2b7f84
+1898	1949	7958501817349705	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-build	4a8460f44cea22ac
+1898	1949	7958501817349705	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-build	4a8460f44cea22ac
+1949	2000	7958501817866255	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-install	5341c7b59c2479f0
+1949	2000	7958501817866255	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-install	5341c7b59c2479f0
+2000	2050	7958501818368188	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-test	55a96ea6c254174a
+2000	2050	7958501818368188	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-test	55a96ea6c254174a
+2050	2122	7958501819076409	CMakeFiles/asp2-populate-complete	ab75eeb44a5d9018
+2050	2122	7958501819076409	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-done	ab75eeb44a5d9018
+2050	2122	7958501819076409	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/CMakeFiles/asp2-populate-complete	ab75eeb44a5d9018
+2050	2122	7958501819076409	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-done	ab75eeb44a5d9018
+3	181	7958550103940036	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-update	6000ad2716aaf568
+3	181	7958550103940036	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-update	6000ad2716aaf568
+181	239	7958550106233738	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-patch	5b704218494d115b
+181	239	7958550106233738	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-patch	5b704218494d115b
+239	296	7958550106804261	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-configure	305027f41b2b7f84
+239	296	7958550106804261	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-configure	305027f41b2b7f84
+296	350	7958550107353979	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-build	4a8460f44cea22ac
+296	350	7958550107353979	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-build	4a8460f44cea22ac
+350	403	7958550107882964	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-install	5341c7b59c2479f0
+350	403	7958550107882964	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-install	5341c7b59c2479f0
+403	460	7958550108437503	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-test	55a96ea6c254174a
+403	460	7958550108437503	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-test	55a96ea6c254174a
+460	537	7958550109207868	CMakeFiles/asp2-populate-complete	ab75eeb44a5d9018
+460	537	7958550109207868	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-done	ab75eeb44a5d9018
+460	537	7958550109207868	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/CMakeFiles/asp2-populate-complete	ab75eeb44a5d9018
+460	537	7958550109207868	C:/Users/olive/Documents/GeodeMods/First Mod/build/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-done	ab75eeb44a5d9018
